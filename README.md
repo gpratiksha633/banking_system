@@ -56,6 +56,9 @@ Provide a simple menu that allows users to select different banking operations.
 
 ---
 
+[Click here to get full code](https://github.com/gpratiksha633/banking_system/blob/cfdcda2747b17037819e4bcf30dc78de0989b08d/bank.sql)
+
+
 ## Initial Balance
 
 The application starts with a default balance of:
